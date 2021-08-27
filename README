@@ -1,0 +1,3 @@
+This project was meant to explore the ways that hive allows for displaying data from an unstructured dataset. The data was interpreted to contain sales of each drink and the 
+availability of said drinks in different branches. Multiple objects were created to be ran to display differing questions about the data, such as what drinks were sold the most in
+a specific branch.
